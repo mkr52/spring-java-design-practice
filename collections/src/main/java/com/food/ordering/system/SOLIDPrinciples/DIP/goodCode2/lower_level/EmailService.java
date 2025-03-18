@@ -1,4 +1,4 @@
-package com.food.ordering.system.SOLIDPrinciples.DIP.goodCode2;
+package com.food.ordering.system.SOLIDPrinciples.DIP.goodCode2.lower_level;
 
 public class EmailService implements NotificationChannel {
 
